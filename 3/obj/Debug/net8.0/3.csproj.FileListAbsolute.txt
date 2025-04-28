@@ -1,0 +1,14 @@
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\bin\Debug\net8.0\3.exe
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\bin\Debug\net8.0\3.deps.json
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\bin\Debug\net8.0\3.runtimeconfig.json
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\bin\Debug\net8.0\3.dll
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\bin\Debug\net8.0\3.pdb
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\3.dll
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\refint\3.dll
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\3.pdb
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\3\obj\Debug\net8.0\ref\3.dll

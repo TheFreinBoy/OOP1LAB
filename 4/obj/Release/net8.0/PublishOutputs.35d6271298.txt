@@ -1,0 +1,5 @@
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\4\bin\Release\net8.0\publish\4.exe
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\4\bin\Release\net8.0\publish\4.dll
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\4\bin\Release\net8.0\publish\4.deps.json
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\4\bin\Release\net8.0\publish\4.runtimeconfig.json
+C:\Users\tetie\Desktop\Моё\Навчання\OOP2\4\bin\Release\net8.0\publish\4.pdb
